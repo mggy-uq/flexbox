@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    gap: 1em;
+    grid: 1;
+
+}
+.container {
+    grid-template-rows: 1;
+    grid-template-columns: 100px 100px 100px;
+}
+.item-3 {
+    flex-grow: 1;
+    background-color: antiquewhite;
+}
+.item-1 {
+    background-color: aquamarine;
+    gap: 1px;
+    flex-grow: 3;
+    
+}
