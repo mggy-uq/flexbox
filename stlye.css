@@ -16,6 +16,17 @@
 .item-1 {
     background-color: aquamarine;
     gap: 1px;
-    flex-grow: 3;
+    flex-grow: 1;
+    font-size: 1.5rem;
+}
+h1 {
+    color: crimson;
+    padding: 20px;
+    text-align: center;
+    background-color: rgba(201, 198, 198, 0.527);  
     
+}
+.item-2 {
+    background-color: antiquewhite;
+    flex-grow: 1;
 }
